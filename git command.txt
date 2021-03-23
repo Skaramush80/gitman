@@ -1,0 +1,12 @@
+git status
+
+git diff filename
+
+git add filename
+
+git commit -m "comment"
+
+git push origin branchname
+
+
+ git checkout -b 20210319-Shurik-use_argument origin/main
